@@ -4,5 +4,7 @@ url: "https://banalapps.github.io"
 theme: minima
 sidebar: none
 navbar:
-  - url: "/"
-  - url: "/PRIVACY"
+  - title: "Home"
+    url: "/"
+  - title: "Privacy Policy"
+    url: "/PRIVACY"
