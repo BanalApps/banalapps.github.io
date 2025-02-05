@@ -1,0 +1,10 @@
+title: "BanalApps"
+baseurl: ""
+url: "https://banalapps.github.io"
+theme: minima
+sidebar: none
+navbar:
+  - title: "Home"
+    url: "/"
+  - title: "Privacy Policy"
+    url: "/PRIVACY"
