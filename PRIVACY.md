@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-published: true
-order: 2
+order: 1
 ---
 
 # Privacy Policy
