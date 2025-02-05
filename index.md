@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Home
-published: true
-order: 1
+order: 2
 ---
 
 # BanalApps
