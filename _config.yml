@@ -3,8 +3,8 @@ baseurl: ""
 url: "https://banalapps.github.io"
 theme: minima
 sidebar: none
-navbar:
-  - title: "Home"
-    url: "/index"
-  - title: "Privacy Policy"
-    url: "/PRIVACY"
+#navbar:
+#  - title: "Home"
+#    url: "/index"
+#  - title: "Privacy Policy"
+#    url: "/PRIVACY"
