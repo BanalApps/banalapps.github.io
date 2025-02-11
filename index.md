@@ -25,16 +25,22 @@ The choice of algorithms and encryption parameters is based on the OWASP Cheat S
 
 ---
 
+### How to test
+
 The application is still in [Closed Testing](https://play.google.com/console/about/closed-testing/).
 
 If you want to test it, please join the following [Google Group](https://groups.google.com/g/testers-community), which will allow you to see and install the application from [Google Play Store](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator).
 
 ---
 
+### Privacy Policy
+
 We value your privacy and want to be transparent about how we handle your data.
 
 For detailed information about our data collection and privacy practices, please review our [Privacy Policy](https://banalapps.github.io/PRIVACY)
 
 ---
+
+### Questions
 
 If you have any questions, feel free to reach out to us at [banalapps@gmail.com](mailto:banalapps@gmail.com)
