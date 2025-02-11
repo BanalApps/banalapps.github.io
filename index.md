@@ -23,7 +23,7 @@ The choice of algorithms and encryption parameters is based on the OWASP Cheat S
 
 ---
 
-The application is still in Closed Testing.
+The application is still in [Closed Testing](https://play.google.com/console/about/closed-testing/).
 
 If you want to test it, please join the following [Google Group](https://groups.google.com/g/testers-community), which will allow you to see and install the application from Google Play Store.
 
