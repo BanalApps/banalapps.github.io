@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-order: 2
 ---
 
 # BanalApps
@@ -31,7 +30,6 @@ If you want to test it, please join the following [Google Group](https://groups.
 [Google Playstore](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator)
 
 ---
-
 
 We value your privacy and want to be transparent about how we handle your data.
 
