@@ -37,7 +37,7 @@ If you want to test it, please join the following [Google Group](https://groups.
 
 We value your privacy and want to be transparent about how we handle your data.
 
-For detailed information about our data collection and privacy practices, please review our [Privacy Policy](https://banalapps.github.io/PRIVACY)
+For detailed information about our data collection and privacy practices, please review our [Privacy Policy](https://banalapps.monks.lu/PRIVACY)
 
 ---
 
