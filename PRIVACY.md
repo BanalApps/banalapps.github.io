@@ -53,5 +53,4 @@ We may update this Privacy Policy from time to time. When we make changes, we wi
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-**BanalApps**  
-Email: banalapps@gmail.com
+**Email:** [banalapps@gmail.com](mailto:banalapps@gmail.com)
