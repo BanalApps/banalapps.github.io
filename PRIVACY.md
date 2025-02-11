@@ -39,8 +39,8 @@ We retain personal data only for as long as necessary to fulfill the purposes ou
 
 ## 7. Your Data Protection Rights
 Depending on your location, you may have certain rights regarding the personal data we collect:
-- **European Economic Area (EEA):** Under the General Data Protection Regulation (GDPR), you have the right to access, correct, delete, or restrict the processing of your personal data. You also have the right to object to processing and the right to data portability. If you would like to exercise any of these rights, please contact us at [Your Contact Information].
-- **California, USA (CCPA):** Under the California Consumer Privacy Act (CCPA), California residents have the right to request information about the personal data we collect, request deletion of personal data, and opt-out of the sale of personal data. You can exercise these rights by contacting us at [Your Contact Information].
+- **European Economic Area (EEA):** Under the General Data Protection Regulation (GDPR), you have the right to access, correct, delete, or restrict the processing of your personal data. You also have the right to object to processing and the right to data portability. If you would like to exercise any of these rights, please refer to the [Google Privacy Policy](https://policies.google.com/privacy#infodelete).
+- **California, USA (CCPA):** Under the California Consumer Privacy Act (CCPA), California residents have the right to request information about the personal data we collect, request deletion of personal data, and opt-out of the sale of personal data. If you would like to exercise any of these rights, please refer to the [Google Privacy Policy](https://policies.google.com/privacy#infodelete).
 - **Other Jurisdictions:** If you reside in other regions, you may have additional data rights under applicable laws. For more information, please consult local privacy regulations.
 
 ## 8. User Choices and Control
