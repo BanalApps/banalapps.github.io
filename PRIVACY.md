@@ -4,53 +4,71 @@ title: Privacy Policy
 ---
 
 # Privacy Policy
-**Effective Date:** 2025/02/01
+**Effective Date:** 2025/02/13
 
-BanalApps ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your personal information when you use our mobile application ("App"). By using this App, you consent to the collection and use of your information as described in this policy.
+BanalApps ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how third-party services used by our mobile application ("App") collect, use, and share your personal information. By using this App, you consent to the collection and use of your information as described in this policy.  
 
-## 1. Information We Collect
-We collect information about your device and interactions with our App. This includes:
-- **Google AdMob:**
-  - AdMob, a service provided by Google, collects device identifiers, such as Advertising IDs (Google Advertising ID or IDFA), to serve personalized ads. AdMob also tracks interactions with ads (such as clicks or impressions) and may use location data (if enabled on your device) to serve more relevant ads.
-- **Google Play Billing:**
-  - If you make an in-app purchase, Google Play Billing collects your payment information, which is processed by Google. We do not directly collect or store any payment data such as credit card numbers. All payment transactions are processed by Google Play.
+## 1. Information Collected by Third-Party Services  
+Our App does not directly collect any personal data. However, third-party services integrated into our App may collect information, including:  
 
-## 2. How We Use Your Information
-We use the information collected for the following purposes:
-- To show personalized ads based on your interests and app usage.
-- To improve our App and user experience by analyzing user behavior and app performance.
-- To process in-app purchases made through Google Play Billing.
+### **Google AdMob**  
+- AdMob, a service provided by Google, may collect device identifiers (e.g., Google Advertising ID or IDFA) to serve personalized ads.  
+- AdMob tracks interactions with ads (such as clicks or impressions) and may use location data (if enabled on your device) to serve more relevant ads.  
 
-## 3. Data Sharing and Disclosure
-We do not sell or rent your personal data to third parties. However, we may share information as follows:
-- **With service providers:** We may share your data with trusted third-party service providers (e.g., Google AdMob) to help us run our services.
-- **As required by law:** We may disclose your information to comply with legal obligations or when required to protect our rights, the safety of our users, or to respond to government requests.
+### **Google Play Billing**  
+- If you make an in-app purchase, Google Play Billing processes your payment.  
+- We do not collect or store any payment details, such as credit card numbers. All transactions are handled by Google Play.  
 
-## 4. Third-Party Services
-Our App uses third-party services, including Google AdMob for advertisements and Google Play Billing for in-app purchases. These services have their own privacy policies, and we encourage you to review them.
-- **Google AdMob Privacy Policy:** [Google Privacy Policy](https://policies.google.com/privacy)
-- **Google Play Billing:** Google Play processes payments through its billing system. For more information, refer to the [Google Play Terms of Service](https://play.google.com/about/play-terms.html).
+For more details, please review Google's policies:  
+- **[Google Privacy Policy](https://policies.google.com/privacy)**  
+- **[Google Play Terms of Service](https://play.google.com/about/play-terms.html)**  
 
-## 5. International Data Transfers
-As our App uses services provided by Google (which operates globally), your data may be transferred and stored in countries outside of your country of residence. By using the App, you consent to the transfer of your data across international borders in accordance with this privacy policy.
+## 2. How Third-Party Services Use Your Information  
+Third-party services may use collected data for:  
+- Delivering personalized advertisements based on your interests and app usage.  
+- Analyzing ad performance and user interactions.  
+- Processing in-app purchases through Google Play Billing.  
 
-## 6. Data Retention
-We retain personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.
+## 3. Data Sharing and Disclosure  
+We do not sell, rent, or directly share your personal data. However, third-party services may share data:  
+- **With service providers:** Google AdMob and Google Play Billing may share data with their partners to enhance ad targeting and transaction security.  
+- **As required by law:** Google may disclose data to comply with legal obligations, law enforcement requests, or to protect users’ rights and safety.  
 
-## 7. Your Data Protection Rights
-Depending on your location, you may have certain rights regarding the personal data we collect:
-- **European Economic Area (EEA):** Under the General Data Protection Regulation (GDPR), you have the right to access, correct, delete, or restrict the processing of your personal data. You also have the right to object to processing and the right to data portability. If you would like to exercise any of these rights, please refer to the [Google Privacy Policy](https://policies.google.com/privacy#infodelete).
-- **California, USA (CCPA):** Under the California Consumer Privacy Act (CCPA), California residents have the right to request information about the personal data we collect, request deletion of personal data, and opt-out of the sale of personal data. If you would like to exercise any of these rights, please refer to the [Google Privacy Policy](https://policies.google.com/privacy#infodelete).
-- **Other Jurisdictions:** If you reside in other regions, you may have additional data rights under applicable laws. For more information, please consult local privacy regulations.
+## 4. International Data Transfers  
+Google’s services operate globally, meaning data may be processed outside your country of residence. Google ensures compliance with international data protection laws through mechanisms like Standard Contractual Clauses (SCCs).  
 
-## 8. User Choices and Control
-- **Ad Personalization:** You can control personalized ads by adjusting your device settings or opting out through Google's Ads Settings.
-- **In-App Purchases:** You can manage or delete your payment information through your Google account settings.
+## 5. Data Retention  
+Since we do not collect personal data directly, retention policies are governed by Google. Please refer to:  
+- **[Google’s Data Retention Policy](https://policies.google.com/technologies/retention)**  
 
-## 9. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. When we make changes, we will post the updated policy on this page with the new effective date. We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.
+## 6. Your Data Protection Rights  
+Depending on your location, you may have certain rights under applicable privacy laws:  
 
-## 10. Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
+### **European Economic Area (EEA) – GDPR Rights**  
+Users in the EEA may have the right to:  
+- Access, correct, delete, or restrict processing of their data.  
+- Object to data processing or request data portability.  
+
+### **California, USA – CCPA Rights**  
+California residents may:  
+- Request details about personal data collected.  
+- Request deletion of personal data.  
+- Opt-out of data "sales" (though we do not sell personal data).  
+
+For GDPR and CCPA rights, please refer to Google’s resources:  
+- **[Google Privacy Policy – Data Rights](https://policies.google.com/privacy#infodelete)**  
+
+## 7. User Choices and Control  
+- **Ad Personalization:** Users can opt out of personalized ads via [Google Ads Settings](https://adssettings.google.com/).  
+- **In-App Purchases:** Payment methods and subscriptions can be managed through your [Google Play account](https://play.google.com/store/account).  
+
+## 8. Children's Privacy  
+Our App is not intended for children under 13 (or under 16 in the EEA). We do not knowingly collect any data from children. If you believe a child has provided data through third-party services, please refer to [Google’s Family Policy](https://support.google.com/googleplay/answer/9285070).  
+
+## 9. Changes to This Privacy Policy  
+We may update this Privacy Policy periodically. Changes will be posted with an updated effective date. Please review this page regularly for updates.  
+
+## 10. Contact Us  
+For any questions or concerns regarding this Privacy Policy, please contact us:  
 
 **Email:** [banalapps@gmail.com](mailto:banalapps@gmail.com)
