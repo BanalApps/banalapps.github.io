@@ -63,7 +63,7 @@ For GDPR and CCPA rights, please refer to Google’s resources:
 - **In-App Purchases:** Payment methods and subscriptions can be managed through your [Google Play account](https://play.google.com/store/account).  
 
 ## 8. Children's Privacy  
-Our App is not intended for children under 13 (or under 16 in the EEA). We do not knowingly collect any data from children. If you believe a child has provided data through third-party services, please refer to [Google’s Family Policy](https://support.google.com/googleplay/answer/9285070).  
+Our App is not intended for children under 13 (or under 16 in the EEA). We do not knowingly collect any data from children. If you believe a child has provided data through third-party services, please refer to [Google’s Family Policy](https://support.google.com/googleplay/android-developer/answer/9893335).
 
 ## 9. Changes to This Privacy Policy  
 We may update this Privacy Policy periodically. Changes will be posted with an updated effective date. Please review this page regularly for updates.  
