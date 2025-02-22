@@ -9,7 +9,7 @@ Welcome to BanalApps!
 
 ### Encryptator
 
-[Encryptator](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator) is an Android application to secure your data using symmetric encryption algorithms.
+[Encryptator](https://play.google.com/store/apps/details?id=lu.monks.banalapps.encryptator) is an Android application to secure your data using symmetric encryption algorithms.
 
 The application leverages **AES/GCM** and **ChaCha20/Poly1305** to encrypt the data.
 
@@ -22,14 +22,6 @@ The choice of algorithms and encryption parameters is based on the OWASP Cheat S
 [OWASP Cheat Sheet Series - Secrets Management](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html#71-encryption-types-to-use)
 
 [OWASP Cheat Sheet Series - Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html)
-
----
-
-### How to test
-
-The application is still in [Closed Testing](https://play.google.com/console/about/closed-testing/).
-
-If you want to test it, please join the following [Google Group](https://groups.google.com/g/testers-community), which will allow you to see and install the application from [Google Play Store](https://play.google.com/store/apps/details?id=com.monks.banalapps.encryptator).
 
 ---
 
