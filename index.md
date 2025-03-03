@@ -15,7 +15,7 @@ The application leverages **AES/GCM** and **ChaCha20/Poly1305** to encrypt the d
 
 **Argon2Id**, **SCrypt**, and **PBKDF2** are used to create a derived key from a user-provided password.
 
-A [GitHub repository](https://github.com/BanalApps/Encryptator_Python3) is maintained with Python3 scripts which are compabible with the application for transparency about the encryption process.
+A [GitHub repository](https://github.com/BanalApps/Encryptator_Python3) is maintained with compatible Python3 scripts for 100% transparency about the encryption process.
 
 ---
 
