@@ -17,6 +17,8 @@ The application leverages **AES/GCM** and **ChaCha20/Poly1305** to encrypt the d
 
 A [GitHub repository](https://github.com/BanalApps/Encryptator_Python3) is maintained with compatible Python3 scripts for 100% transparency about the encryption process.
 
+More information and FAQs can be seen on our [APK.COM website](https://encryptator.apk.com).
+
 ---
 
 The choice of algorithms and encryption parameters is based on the OWASP Cheat Sheet Series best-practices.
